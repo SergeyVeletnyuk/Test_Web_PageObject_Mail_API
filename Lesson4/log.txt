@@ -1,0 +1,25 @@
+2024-02-16 10:55:17 INFO ====== WebDriver manager ======
+2024-02-16 10:55:17 INFO Get LATEST chromedriver version for google-chrome
+2024-02-16 10:55:17 INFO Get LATEST chromedriver version for google-chrome
+2024-02-16 10:55:17 INFO Driver [/Users/sergejveletnuk/.wdm/drivers/chromedriver/mac64/121.0.6167.85/chromedriver-mac-arm64/chromedriver] found in cache
+2024-02-16 10:55:19 INFO Test1 starting
+2024-02-16 10:55:21 INFO ====== WebDriver manager ======
+2024-02-16 10:55:21 INFO Get LATEST chromedriver version for google-chrome
+2024-02-16 10:55:21 INFO Get LATEST chromedriver version for google-chrome
+2024-02-16 10:55:21 INFO Driver [/Users/sergejveletnuk/.wdm/drivers/chromedriver/mac64/121.0.6167.85/chromedriver-mac-arm64/chromedriver] found in cache
+2024-02-16 10:55:22 INFO Test2 starting
+2024-02-16 10:55:24 INFO ====== WebDriver manager ======
+2024-02-16 10:55:24 INFO Get LATEST chromedriver version for google-chrome
+2024-02-16 10:55:24 INFO Get LATEST chromedriver version for google-chrome
+2024-02-16 10:55:24 INFO Driver [/Users/sergejveletnuk/.wdm/drivers/chromedriver/mac64/121.0.6167.85/chromedriver-mac-arm64/chromedriver] found in cache
+2024-02-16 10:55:25 INFO Test3 starting
+2024-02-16 10:55:34 INFO ====== WebDriver manager ======
+2024-02-16 10:55:35 INFO Get LATEST chromedriver version for google-chrome
+2024-02-16 10:55:35 INFO Get LATEST chromedriver version for google-chrome
+2024-02-16 10:55:35 INFO Driver [/Users/sergejveletnuk/.wdm/drivers/chromedriver/mac64/121.0.6167.85/chromedriver-mac-arm64/chromedriver] found in cache
+2024-02-16 10:55:35 INFO Test3 starting
+2024-02-16 10:55:37 INFO input contact name
+2024-02-16 10:55:38 INFO input contact email
+2024-02-16 10:55:38 INFO input contact content
+2024-02-16 10:55:42 INFO Test1: API start loging
+2024-02-16 10:55:44 INFO Test2: Create post
